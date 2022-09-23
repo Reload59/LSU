@@ -9,6 +9,7 @@ rem //Changelog//
 :: Update,Force,Limiters seçenekleri ve StpChk özelliği kaldırıldı.
 :: SpotX manuel kaldırıldı.
 :: SpotX auto config eklendi.
+:: çalışmıyor
 rem /////////////
 
 rem ////Warn////
