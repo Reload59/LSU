@@ -392,5 +392,3 @@ tasklist | find "Spotify.exe" >nul 2>&1
 if "%errorlevel%" EQU "1" (echo Spotify başarıyla durduruldu.)
 if "%errorlevel%" NEQ "1" (echo Spotify durdurulamadı.)
 exit /b
-
-rem ;iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 ^| iex
